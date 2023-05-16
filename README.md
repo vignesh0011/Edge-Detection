@@ -19,21 +19,11 @@ Import the necessary modules.
 For performing edge detection on a image.
 
 * Sobel
-```python
-sobelx=cv2.Sobel(img,cv2.CV_64F,1,0,5)
-sobely=cv2.Sobel(img,cv2.CV_64F,0,1,5)
-sobelxy=cv2.Sobel(img,cv2.CV_64F,1,1,5)
-```
 
 * Laplacian
-```python
-Laplacian=cv2.Laplacian(img,cv2.CV_64F)
-```
 
 * Canny
-```python
-canny=cv2.Canny(img,120,150)
-```
+
 <br>
 
 ### Step3:
