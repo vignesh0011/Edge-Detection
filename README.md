@@ -1,4 +1,6 @@
-## <p align="center">EDGE DETECTION</p>
+## EX.NO: 07 <br>
+## DATE: 
+# <p align="center">EDGE DETECTION</p>
 
 ## Aim:
 
