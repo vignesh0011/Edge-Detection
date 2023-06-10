@@ -1,5 +1,5 @@
 ## EX.NO: 07 <br>
-## DATE: 
+## DATE: 12.04.2023
 # <p align="center">EDGE DETECTION</p>
 
 ## Aim:
